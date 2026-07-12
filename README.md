@@ -19,7 +19,7 @@
 # 🔭 I’m currently working on ...
 
 
-I will start working at Alibaba around July next year.
+I am  working at Alibaba .
 
 # My work experience
 2025-5 ~ 2025-10: Alibaba Intern
