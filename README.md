@@ -11,19 +11,19 @@
 
 #  📝 My blog
 
-<a href="https://blog.csdn.net/llovewuzhengzi?type=blog" target="_blank"><img  align=center src="https://img.shields.io/badge/CSDN-%23ff4116?style=flat"/></a>
+
 <a href="https://forum.butian.net/people/33851/community" target="_blank"><img  align=center src="https://img.shields.io/badge/奇安信攻防社区-%23079a3a?style=flat"/></a>
 
 ![github统计](https://stats.justsong.cn/api/csdn?id=llovewuzhengzi )
 
 # 🔭 I’m currently working on ...
 
-I'm currently an undergraduate student at YNU.
+
 I will start working at Alibaba around July next year.
 
 # My work experience
 2025-5 ~ 2025-10: Alibaba Intern
-
+2026-7 ~ now：Alibaba Security
 # 🌱 I’m currently learning ...
 
 I’m currently learning pwn and AI 
