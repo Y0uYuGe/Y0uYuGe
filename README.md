@@ -4,40 +4,97 @@
   </a>
 </p>
 
-# 👋 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Y0uYuGe&label=Profile%20Views&color=blueviolet&style=flat" alt="views" />
+  <a href="https://github.com/Y0uYuGe?tab=followers"><img src="https://img.shields.io/github/followers/Y0uYuGe?label=Followers&style=flat" alt="followers"/></a>
+  <a href="mailto:llk1010@foxmail.com"><img src="https://img.shields.io/badge/Email-llk1010%40foxmail.com-red?style=flat&logo=gmail" alt="email"/></a>
+</p>
 
-- 🔭 Security Engineer at **Alibaba**(2025-05 ~ 2025-10 Alibaba Intern → 2026-07 ~ now Alibaba Security)
-- 🌱 Currently learning **Pwn** and **AI Security**
-- 💬 Ask me about **AI / Pwn / Kernel Exploitation**
-- 😄 Pronouns: llk / 看星猩的柴狗 😉 / liu like
-- ⚡ Fun fact: I like playing CF, and I want to crack down on cheaters by learning reverse engineering
+---
 
-# 📝 My Blog
+<h2 align="center">👋 About Me</h2>
 
-<a href="https://forum.butian.net/people/33851/community" target="_blank"><img align="center" src="https://img.shields.io/badge/奇安信攻防社区-%23079a3a?style=flat"/></a>
+<table align="center">
+  <tr><td>🔭 <b>Work</b></td><td>Security Engineer @ <b>Alibaba</b>(2025-05 ~ 2025-10 Intern → 2026-07 ~ now)</td></tr>
+  <tr><td>🌱 <b>Learning</b></td><td>Pwn &amp; AI Security</td></tr>
+  <tr><td>💬 <b>Ask me about</b></td><td>AI / Pwn / Kernel Exploitation</td></tr>
+  <tr><td>😄 <b>Pronouns</b></td><td>llk / 看星猩的柴狗 😉 / liu like</td></tr>
+</table>
 
-![CSDN 统计](https://stats.justsong.cn/api/csdn?id=llovewuzhengzi)
+<details>
+  <summary>⚡ <b>Fun fact</b>(click to expand)</summary>
+  <br/>
+  I like playing CF, and I want to crack down on other players' cheating behavior by learning reverse engineering. 🔫🔍
+</details>
 
-# 🚀 Featured Projects
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kernel_Pwn-E34F26?style=for-the-badge&logo=linuxcontainers&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Security-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white"/>
+</p>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
 
 | Project | Description |
 | --- | --- |
-| [glibc-chunk-poc-basic](https://github.com/Y0uYuGe/glibc-chunk-poc-basic) | glibc chunk pwn 基础 POC 集 |
+| [glibc-chunk-poc-basic](https://github.com/Y0uYuGe/glibc-chunk-poc-basic) | glibc chunk pwn 基础 POC 集 ⭐2 |
 | [kernel-struct-exploit](https://github.com/Y0uYuGe/kernel-struct-exploit) | Linux 内核结构体利用研究 |
 | [llkdocker](https://github.com/Y0uYuGe/llkdocker) | 参考 writing-your-own-docker,在 Ubuntu 22.04 上手写的 Docker |
 | [risllkos-advanced](https://github.com/Y0uYuGe/risllkos-advanced) | 更完整的 RISC-V 教学 OS(基于 risllkos-base 与 RISC-V 手册) |
 | [nmap_ids](https://github.com/Y0uYuGe/nmap_ids) | 随机森林 + 网格优化的 nmap 入侵行为检测系统 |
 | [Address-segmentation-learning-and-practice](https://github.com/Y0uYuGe/Address-segmentation-learning-and-practice) | 地址分词项目的学习与实践 |
 
-# 💡 GitHub Stats
+</div>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y0uYuGe&locale=en&line_height=33&theme=&langs_count=20&layout=compact&custom_title=language"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Y0uYuGe&locale=en&line_height=33&show_icons=true&hide=&theme=&rank_icon=percentile&custom_title=statistics"/>
+---
+
+<h2 align="center">📝 Blog</h2>
+
+<p align="center">
+  <a href="https://forum.butian.net/people/33851/community" target="_blank"><img src="https://img.shields.io/badge/奇安信攻防社区-%23079a3a?style=for-the-badge"/></a>
+  <a href="https://y0uyuge.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Pages-博客-222222?style=for-the-badge&logo=githubpages"/></a>
 </p>
 
-<br clear="both"/>
+<p align="center">
+  <img src="https://stats.justsong.cn/api/csdn?id=llovewuzhengzi" alt="CSDN 统计"/>
+</p>
 
-# 📫 How to Reach Me
+---
 
-📮 **llk1010@foxmail.com** — I will reply to all messages. If you don't receive a reply, please send it again.
+<h2 align="center">💡 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Y0uYuGe&show_icons=true&rank_icon=percentile&custom_title=statistics" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y0uYuGe&langs_count=8&layout=compact&custom_title=language" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Y0uYuGe" alt="streak"/>
+</p>
+
+---
+
+<h2 align="center">📫 Reach Me</h2>
+
+<p align="center">
+  📮 <b>llk1010@foxmail.com</b><br/>
+  I will reply to all messages. If you don't receive a reply, please send it again.
+</p>
