@@ -29,6 +29,17 @@
 
 ---
 
+<h2 align="center">🎯 Current Focus</h2>
+
+<table align="center">
+  <tr><td>1️⃣</td><td><b>终端安全研究</b></td><td>Endpoint Security Research</td></tr>
+  <tr><td>2️⃣</td><td><b>Agent 开发 / 安全</b></td><td>Agent Development &amp; Security</td></tr>
+  <tr><td>3️⃣</td><td><b>AI Infra</b></td><td>AI Infrastructure</td></tr>
+  <tr><td>4️⃣</td><td><b>具身智能</b></td><td>Embodied AI</td></tr>
+</table>
+
+---
+
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
