@@ -1,8 +1,5 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF4A20FB&center=true&vCenter=true&width=600&lines=Hi+friends.+I'm+LLK%2C+here+you+can+know+all+about+me" alt="Typing SVG" />
-  </a>
-</p>
+<h1 align="center">Hi friends 👋 I'm LLK</h1>
+<p align="center"><i>Here you can know all about me.</i></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Y0uYuGe&label=Profile%20Views&color=blueviolet&style=flat" alt="views" />
@@ -71,6 +68,7 @@
 | [llkdocker](https://github.com/Y0uYuGe/llkdocker) | 参考 writing-your-own-docker,在 Ubuntu 22.04 上手写的 Docker |
 | [risllkos-advanced](https://github.com/Y0uYuGe/risllkos-advanced) | 更完整的 RISC-V 教学 OS(基于 risllkos-base 与 RISC-V 手册) |
 | [nmap_ids](https://github.com/Y0uYuGe/nmap_ids) | 随机森林 + 网格优化的 nmap 入侵行为检测系统 |
+| [MagicSkills](https://github.com/Y0uYuGe/MagicSkills) | Local-first 的 Agent 技能基础设施:一次构建 SKILL.md,全 Agent 复用 |
 | [Address-segmentation-learning-and-practice](https://github.com/Y0uYuGe/Address-segmentation-learning-and-practice) | 地址分词项目的学习与实践 |
 
 </div>
@@ -83,19 +81,6 @@
   <a href="https://forum.butian.net/people/33851/community" target="_blank"><img src="https://img.shields.io/badge/奇安信攻防社区-%23079a3a?style=for-the-badge"/></a>
   <a href="https://blog.csdn.net/llovewuzhengzi" target="_blank"><img src="https://img.shields.io/badge/CSDN-llovewuzhengzi-FC5531?style=for-the-badge&logo=csdn"/></a>
   <a href="https://y0uyuge.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Pages-博客-222222?style=for-the-badge&logo=githubpages"/></a>
-</p>
-
----
-
-<h2 align="center">💡 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Y0uYuGe&show_icons=true&rank_icon=percentile&custom_title=statistics" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Y0uYuGe&langs_count=8&layout=compact&custom_title=language" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Y0uYuGe" alt="streak"/>
 </p>
 
 ---
