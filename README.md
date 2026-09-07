@@ -70,11 +70,8 @@
 
 <p align="center">
   <a href="https://forum.butian.net/people/33851/community" target="_blank"><img src="https://img.shields.io/badge/奇安信攻防社区-%23079a3a?style=for-the-badge"/></a>
+  <a href="https://blog.csdn.net/llovewuzhengzi" target="_blank"><img src="https://img.shields.io/badge/CSDN-llovewuzhengzi-FC5531?style=for-the-badge&logo=csdn"/></a>
   <a href="https://y0uyuge.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Pages-博客-222222?style=for-the-badge&logo=githubpages"/></a>
-</p>
-
-<p align="center">
-  <img src="https://stats.justsong.cn/api/csdn?id=llovewuzhengzi" alt="CSDN 统计"/>
 </p>
 
 ---
@@ -82,8 +79,8 @@
 <h2 align="center">💡 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Y0uYuGe&show_icons=true&rank_icon=percentile&custom_title=statistics" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y0uYuGe&langs_count=8&layout=compact&custom_title=language" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Y0uYuGe&show_icons=true&rank_icon=percentile&custom_title=statistics" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Y0uYuGe&langs_count=8&layout=compact&custom_title=language" height="165"/>
 </p>
 
 <p align="center">
